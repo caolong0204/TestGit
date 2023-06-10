@@ -1,8 +1,9 @@
 // Line1
-// Line2 Task A TaskB TaskC
+
+// Line2 Task A TaskC
 
 // Line3
 // Line4 Task A
 // Task A
-//Task B
+
 // TaskC
